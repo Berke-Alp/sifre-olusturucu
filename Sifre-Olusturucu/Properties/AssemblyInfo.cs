@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Bir bütünleştirilmiş koda ilişkin Genel Bilgiler aşağıdaki öznitelikler kümesiyle
 // denetlenir. Bütünleştirilmiş kod ile ilişkili bilgileri değiştirmek için
 // bu öznitelik değerlerini değiştirin.
-[assembly: AssemblyTitle("PassMaker")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Şifre Oluşturucu")]
+[assembly: AssemblyDescription("Hesaplarınız için dilediğiniz şekilde şifreler oluşturabileceğiniz bir program.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PassMaker")]
+[assembly: AssemblyProduct("Şifre Oluşturucu")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
